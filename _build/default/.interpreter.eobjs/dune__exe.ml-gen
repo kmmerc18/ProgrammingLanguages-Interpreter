@@ -1,0 +1,5 @@
+(** @canonical Dune__exe.Ast1 *)
+module Ast1 = Dune__exe__Ast1
+
+(** @canonical Dune__exe.Interpreter *)
+module Interpreter = Dune__exe__Interpreter

@@ -1,0 +1,21 @@
+1
+2
+Main
+inherits
+2
+IO
+1
+method
+3
+main
+0
+3
+Object
+4
+self_dispatch
+4
+out_string
+1
+4
+string
+Hello, world.\n

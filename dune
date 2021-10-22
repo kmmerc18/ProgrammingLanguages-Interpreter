@@ -1,0 +1,5 @@
+(executable
+    (name interpreter)
+    (promote (until-clean))
+    (libraries "str")
+)

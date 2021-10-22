@@ -1,0 +1,2 @@
+The only references used were the ReasonML documentation, the COOL Reference Manual, and video guides
+posted by Professor Angstadt.
